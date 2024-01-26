@@ -1,6 +1,4 @@
-### im iris
+### im iris 🏳️‍⚧️
 
-- she/it 🏳️‍⚧️
-- f# <3, typescript, rust
-- i like languages
-- personal site coming soon
+- rust <3, vue+typescript, f#, c#
+- i like music and languages too
